@@ -1,7 +1,7 @@
 ## Tangyi Cao（曹唐毅）
 
 # Education
-2016.9-2020.7 B.E. [in School of Computer Science and Imformation Security](https://www.guet.edu.cn/),[GUET](https://www.guet.edu.cn/dept3/xygk/xyjj.htm).
+2016.9-2020.7 B.E. in [School of Computer Science and Imformation Security](https://www.guet.edu.cn/), [GUET](https://www.guet.edu.cn/dept3/xygk/xyjj.htm).
 
 # Awards
 2020，First Prize of Academic Scholarship,GUET  
