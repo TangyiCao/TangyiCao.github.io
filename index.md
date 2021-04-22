@@ -4,7 +4,7 @@
 I'm interested in the field of cyber security, blockchain, smart contract and consensus mechanism.
 
 ## Education
-2016.9-2020.7    B.E. in [School of Computer Science and Imformation Security](https://www.guet.edu.cn/dept3/xygk/xyjj.htm),GUET[(Guilin University of Electronic Technology)](https://www.guet.edu.cn)
+2016.09-2020.07： B.E. in [School of Computer Science and Imformation Security](https://www.guet.edu.cn/dept3/xygk/xyjj.htm),Guilin University of Electronic Technology[(GUET)](https://www.guet.edu.cn)
 
 ## Projects
 
