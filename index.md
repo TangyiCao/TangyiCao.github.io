@@ -1,5 +1,4 @@
-
-![Image text](https://github.com/TangyiCao/TangyiCao.github.io/blob/master/test.jpg) # Tangyi Cao（曹唐毅）
+# Tangyi Cao（曹唐毅）
 
 ## Research Interest  
 I'm interested in the field of cyber security, blockchain, smart contract and consensus mechanism.
