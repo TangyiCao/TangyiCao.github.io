@@ -1,5 +1,9 @@
 # Tangyi Cao（曹唐毅）
 
+<div align=left>
+<img src="https://z3.ax1x.com/2021/04/23/cO2JKg.jpg" title="曹唐毅" alt="图片暂时无法显示" width = 12%/>
+</div>
+
 ## Research Interest  
 I'm interested in the field of cyber security, blockchain, smart contract and consensus mechanism.
 
