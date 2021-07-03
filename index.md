@@ -30,4 +30,4 @@ I'm interested in the field of cyber security, blockchain, smart contract and co
 ## Membership
 
 ## Contact Me
-<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1539988923&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1539988923:52" alt="点击这里给我发消息" title=" QQ "/></a>
+<a target="_blank" href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1539988923&website=www.oicqzone.com"><img border="0" src="http://wpa.qq.com/pa?p=2:1539988923:52" alt=" QQ " title="点击这里给我发消息"/></a>
