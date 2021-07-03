@@ -10,9 +10,15 @@ I'm interested in the field of cyber security, blockchain, smart contract and co
 ## Education
 2016.09-2020.07： B.E. in [School of Computer Science and Imformation Security](https://www.guet.edu.cn/dept3/xygk/xyjj.htm),Guilin University of Electronic Technology[（GUET）](https://www.guet.edu.cn)
 
-## Projects
+## Academic Thesis
 
-## Membership
+## Patent
+
+## Software Copyright
+
+## Subject Competition
+
+## Projects
 
 ## Awards
 2020, First Prize of Academic Scholarship,GUET  
@@ -20,3 +26,7 @@ I'm interested in the field of cyber security, blockchain, smart contract and co
 2019, Outstanding communist Youth League Cadres in 2018,GUET  
 2018, Outstanding communist Youth League Cadres in 2017,GUET  
 2017, Outstanding members of the Communist Youth League in 2016,GUET  
+
+## Membership
+
+## Contact Way
