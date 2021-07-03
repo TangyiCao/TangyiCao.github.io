@@ -3,4 +3,4 @@
 <img src="https://z3.ax1x.com/2021/04/23/cO2JKg.jpg" title="曹唐毅" width = 10%/>
 </div>
 
-[![Image test](./Files/test.jpg)]
+[![Image test](http://tangyicao.github.io/imgs/test.jpg)]
