@@ -16,11 +16,11 @@ I'm interested in the field of cyber security, blockchain, smart contract and co
 
 ## Software Copyright
 
+## Project
+
 ## Subject Competition
 
-## Projects
-
-## Awards
+## Award
 2020, First Prize of Academic Scholarship,GUET  
 2020, Outstanding members of the Communist Youth League in 2019,GUET  
 2019, Outstanding communist Youth League Cadres in 2018,GUET  
@@ -29,4 +29,5 @@ I'm interested in the field of cyber security, blockchain, smart contract and co
 
 ## Membership
 
-## Contact Way
+## Contact Me
+<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1539988923&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1539988923:52" alt="点击这里给我发消息" title=" QQ "/></a>
