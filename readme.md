@@ -1,5 +1,5 @@
-## [TangyiCao.github.io html-test](https://tangyicao.github.io:index.md)
-## [TangyiCao.github.io markdown-test](https://tangyicao.github.io:index.md)
+## [TangyiCao.github.io html-test](https://tangyicao.github.io)
+## [TangyiCao.github.io markdown-test](https://tangyicao.github.io/other_files)
 <div align=left>
 <img src="http://tangyicao.github.io/imgs/test.jpg" title="曹唐毅-站内图库测试" width = 10%/>
 </div>
