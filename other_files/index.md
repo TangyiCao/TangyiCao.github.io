@@ -33,5 +33,10 @@ I'm interested in the field of cyber security, blockchain, smart contract and co
 QQ: <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1539988923&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1539988923:52" alt=" QQ " title="点击添加我为QQ好友"/></a>
 <details>
   <summary> WeChat </summary>
-  <p><img src="../imgs/wechat.jpg" alt="WeChat"></p>
+  <p><img src="../imgs/wechat.jpg" alt="WeChat.jpg"></p>
+</details>
+
+<details>
+  <summary> E-mail: </summary>
+  <p>caotangyi@foxmail.com</p>
 </details>
