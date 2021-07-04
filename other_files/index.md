@@ -1,7 +1,7 @@
 # Tangyi Cao（曹唐毅）
 
 <div align=left>
-<img src="http://tangyicao.github.io/imgs/test.jpg" title="曹唐毅" alt="图片暂时无法显示" width = 12%/>
+<img src="../imgs/test.jpg" title="曹唐毅" alt="图片暂时无法显示" width = 12%/>
 </div>
 
 ## Research Interest  
@@ -30,4 +30,8 @@ I'm interested in the field of cyber security, blockchain, smart contract and co
 ## Membership
 
 ## Contact Me
-<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1539988923&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1539988923:52" alt=" QQ " title="点击添加我为QQ好友"/></a>
+QQ: <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1539988923&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1539988923:52" alt=" QQ " title="点击添加我为QQ好友"/></a>
+<details>
+  <summary> WeChat </summary>
+  <p><img src="../imgs/wechat.jpg" alt="WeChat"></p>
+</details>
