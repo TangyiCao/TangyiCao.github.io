@@ -2,7 +2,6 @@
 
 ## [html-test](https://tangyicao.github.io)
 
-## [markdown-test](https://tangyicao.github.io/other_files)
 
 <div align=left>
 <img src="http://tangyicao.github.io/imgs/test.jpg" title="曹唐毅-站内图库测试" width = 10%/>
