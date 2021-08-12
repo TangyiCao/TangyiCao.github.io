@@ -22,10 +22,29 @@
 <p> 
   <h3> 联系方式 </h3>
   
-  <details>
+<details>
     <summary> 邮箱地址 </summary>
-    <p>caotangyi@foxmail.com</p>
-  </details>
+    <p>
+    <span id="copy">caotangyi@foxmail.com</span>
+    <button type="button" onclick="copy()">复制文本</button>
+    <script type="text/javascript" src="static/js/jquery.min.js"></script>
+    <script type="text/javascript" src="static/js/main.min.js"></script>
+    <script type="text/javascript">
+
+    function copy() {
+    var copyTest = document.getElementById("copy").innerText;
+    var inputTest = document.createElement('input');
+    inputTest.value = copyTest;
+    document.body.appendChild(inputTest);
+    inputTest.select();
+    document.execCommand("Copy");
+    inputTest.className = 'oInput';
+    inputTest.style.display = 'none';
+    alert('复制成功'); 
+    }
+    </script>
+    </p>
+</details>
 
   <details>
     <summary> QQ </summary>
