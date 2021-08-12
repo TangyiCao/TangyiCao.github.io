@@ -18,7 +18,7 @@
 </p>
   
 <div align=left>
-<img src="../imgs/test.jpg" title="曹唐毅" alt="图片暂时无法显示" width = 12%/>
+<img src="../imgs/test.jpg" title="曹唐毅" alt="照片加载失败" width = 10%/>
 </div>
 
 <p>
@@ -89,15 +89,11 @@
   </ul>
 </p>
 
-<p>
-  <h3> Membership </h3>
-  
-</p>
 
 <p>
   <details>
      <summary>
-       Other Experience
+       Some Experiences (membership)
      </summary>
     <ul>
       <li> 2018.03 - 2019.03, served as vice chairman of Snail Micro Horse Association (renamed Running Enthusiasts Association now) of <a href="https://www.guet.edu.cn"> GUET </a> </li>
@@ -112,7 +108,26 @@
   
   <details>
     <summary> E-mail </summary>
-    <p>caotangyi@foxmail.com</p>
+    <p>
+    <span id="copy">caotangyi@foxmail.com</span>
+    <button type="button" onclick="copy()">Copy Text</button>
+    <script type="text/javascript" src="static/js/jquery.min.js"></script>
+    <script type="text/javascript" src="static/js/main.min.js"></script>
+    <script type="text/javascript">
+
+    function copy() {
+    var copyTest = document.getElementById("copy").innerText;
+    var inputTest = document.createElement('input');
+    inputTest.value = copyTest;
+    document.body.appendChild(inputTest);
+    inputTest.select();
+    document.execCommand("Copy");
+    inputTest.className = 'oInput';
+    inputTest.style.display = 'none';
+    alert('Text copied successfully！'); 
+    }
+    </script>
+    </p>
   </details>
 
   <details>
@@ -129,7 +144,9 @@
   </details>
 
 </p>
+
 <hr>
+
 <p>
   <center>
     
