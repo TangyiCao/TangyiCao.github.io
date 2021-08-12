@@ -110,10 +110,29 @@
 <p> 
   <h3> Contact Me </h3>
   
-  <details>
+<details>
     <summary> E-mail </summary>
-    <p>caotangyi@foxmail.com</p>
-  </details>
+    <p>
+    <span id="copy">caotangyi@foxmail.com</span>
+    <button type="button" onclick="copy()">copy</button>
+    <script type="text/javascript" src="static/js/jquery.min.js"></script>
+    <script type="text/javascript" src="static/js/main.min.js"></script>
+    <script type="text/javascript">
+
+    function copy() {
+    var copyTest = document.getElementById("copy text").innerText;
+    var inputTest = document.createElement('input');
+    inputTest.value = copyTest;
+    document.body.appendChild(inputTest);
+    inputTest.select();
+    document.execCommand("Copy");
+    inputTest.className = 'oInput';
+    inputTest.style.display = 'none';
+    alert('Text copied successfully！'); 
+    }
+    </script>
+    </p>
+</details>
 
   <details>
     <summary> QQ </summary>
@@ -129,7 +148,9 @@
   </details>
 
 </p>
+
 <hr>
+
 <p>
   <center>
     
