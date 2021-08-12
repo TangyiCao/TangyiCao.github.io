@@ -110,13 +110,13 @@
     <summary> E-mail </summary>
     <p>
     <span id="copy">caotangyi@foxmail.com</span>
-    <button type="button" onclick="copy()">copy</button>
+    <button type="button" onclick="copy()">copy text</button>
     <script type="text/javascript" src="static/js/jquery.min.js"></script>
     <script type="text/javascript" src="static/js/main.min.js"></script>
     <script type="text/javascript">
 
     function copy() {
-    var copyTest = document.getElementById("copy text").innerText;
+    var copyTest = document.getElementById("copy").innerText;
     var inputTest = document.createElement('input');
     inputTest.value = copyTest;
     document.body.appendChild(inputTest);
