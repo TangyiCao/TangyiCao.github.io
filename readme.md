@@ -1,10 +1,10 @@
-# My personal homepage
+# My Personal Homepage
 
 ## Profile：[https://tangyicao.github.io](https://tangyicao.github.io)
 
 ## Running：[https://tangyicao.github.io/run](https://tangyicao.github.io/run)
 
-## Love：[https://tangyicao.github.io/love](https://tangyicao.github.io/love)
+## Affection：[https://tangyicao.github.io/love](https://tangyicao.github.io/love)
 
 website pictures' loading status test：
 
